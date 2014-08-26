@@ -1,0 +1,11 @@
+{
+    "name"         : "Save The Date : Max & Felisha",
+    "description"  : "a save the date site for our wedding",
+    "version"      : "0.0.1",
+    "dependencies" : {
+        "bootstrap"    : "latest",
+        "jquery"       : "latest",
+        "font-awesome" : "latest",
+        "angular"      : "latest"
+    }
+}
